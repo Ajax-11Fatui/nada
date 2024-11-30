@@ -1,0 +1,54 @@
+body{
+    background-color: rgb(223, 219, 171);
+
+}
+ div#mine{
+    color: rgb(114, 107, 3);
+    display: flex;
+    justify-content: center;
+    background-color: rgb(170, 179, 58);
+
+
+}
+h2 {
+    color: rgb(161, 82, 82);
+    display: flex;
+    justify-content: center;
+    background-color: rgb(207, 147, 147);
+}
+span {
+color: rgb(38, 78, 22);
+font-size: larger;
+background-color: rgb(173, 199, 25);
+width: 300px;
+height: 700px;
+}
+img {
+    width: 600px;
+    height: 300px;
+}
+span#um {
+    background-color: rgb(21, 226, 124);
+    
+}
+span#dois {
+    background-color: rgb(19, 144, 153);
+     }
+     span#four{
+        width: 90px;
+    height: 20px;
+    background-color: rgb(158, 60, 117);
+     }
+span#sete{
+    font-style: italic;
+}
+span#nove{
+    font-style: italic;
+}
+span#iii{
+    font-style: italic;
+}
+div#bla {
+    display: flex;
+    justify-content: end;
+}
